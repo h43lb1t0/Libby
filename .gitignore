@@ -1,0 +1,26 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+
+
+# Flask
+instance/
+
+
+# IDEs / editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+*.log
+*.log.*
+
+# runtime files
+*.json
